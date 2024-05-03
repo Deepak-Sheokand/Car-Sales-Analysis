@@ -70,7 +70,41 @@ By following these steps, we aim to create a comprehensive and user-friendly Car
 
 ## Dashboard Overview
 
-### KPI's Metrics
+ ### KPI's Metrics
+  
+ 1) **Sales KPI :** Track year-to-date (YTD) and month-to-date (MTD) total sales, analyze percentage year-over-year (YOY) growth in sales, and compare YTD sales with previous year's YTD sales
+ 
+    ![Screenshot 2024-05-03 163556](https://github.com/Deepak-Sheokand/Car-Sales-Dashboard/assets/156662689/fd085517-d4a3-429e-acbf-c31a03f5a0d7)
+ 
+ 2) **Avegrage Price KPI :** Track year-to-date (YTD) and month-to-date (MTD) Average Price, analyze percentage year-over-year (YOY) growth, and compare YTD Average Price with previous year's YTD sales Average Price
+ 
+    ![Screenshot 2024-05-03 163620](https://github.com/Deepak-Sheokand/Car-Sales-Dashboard/assets/156662689/2ed4c501-36e0-4c92-b3f5-8b5486bf4759)
+ 
+ 3) **Car Sold KPI :** Track year-to-date (YTD) and month-to-date (MTD) Car Sold, analyze percentage year-over-year (YOY) growth in car sold, and compare YTD car sold with previous year's YTD car sold
+ 
+    ![Screenshot 2024-05-03 163637](https://github.com/Deepak-Sheokand/Car-Sales-Dashboard/assets/156662689/ee23d7a7-93b3-42ca-a000-2ffe4a95f732)
+
+ ### Charts 
+1) **YTD Sales Weekly Trend :**
+   
+    ![Screenshot 2024-05-03 170120](https://github.com/Deepak-Sheokand/Car-Sales-Dashboard/assets/156662689/ee87dddb-0381-4ab7-8bca-12c003aed1b0)
+
+ 2) **YTD Total Sales bY Body Style :**
+
+    ![Screenshot 2024-05-03 170142](https://github.com/Deepak-Sheokand/Car-Sales-Dashboard/assets/156662689/6c408121-dff3-44d5-89cc-eb91fa7a73b2)
+
+ 3) **YTD Total Sales by Color**
+
+    ![Screenshot 2024-05-03 170204](https://github.com/Deepak-Sheokand/Car-Sales-Dashboard/assets/156662689/a1fdacea-163e-41bc-ac5c-66d040e59baf)
+
+ 4) **YTD Car Sold by Dealer Region :**
+
+    ![Screenshot 2024-05-03 170241](https://github.com/Deepak-Sheokand/Car-Sales-Dashboard/assets/156662689/25f2e5ba-b3c7-451d-99cf-16077f7eb277)
+
+ 5) **Company Wise Sales Tend In Grid Form**
+
+     ![Screenshot 2024-05-03 170306](https://github.com/Deepak-Sheokand/Car-Sales-Dashboard/assets/156662689/749ba0ff-6460-4ca1-8cdf-67def76141e1)
+
 
 
 
