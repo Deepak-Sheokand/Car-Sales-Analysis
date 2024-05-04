@@ -119,7 +119,7 @@ By following these steps, we aim to create a comprehensive and user-friendly Car
 
 ---
 
-## Thank you for your attention and interest in our Car Sales Dashboard Report.
+## Thank you for your attention and interest in my Car Sales Dashboard Report.
 
 ---
 
