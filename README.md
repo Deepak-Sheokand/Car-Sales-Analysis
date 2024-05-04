@@ -105,9 +105,24 @@ By following these steps, we aim to create a comprehensive and user-friendly Car
 
      ![Screenshot 2024-05-03 170306](https://github.com/Deepak-Sheokand/Car-Sales-Dashboard/assets/156662689/749ba0ff-6460-4ca1-8cdf-67def76141e1)
 
+---
 
+## Conclusion :
+1) Year-to-Date (YTD) Total Sales amount to $371.2M, marking a $70.8M increase compared to the Previous Year-to-Date (PYTD) Total Sales, with a Year-over-Year (YOY) Growth in Total Sales of 23.59%.
+2) The Year-to-Date (YTD) Average Price stands at $28.0K, showing a decrease of $0.22K compared to the Previous Year-to-Date (PYTD) Average Price, resulting in a YOY Growth in Average Price decrease of 0.79%.
+3) Year-to-Date (YTD) Car Sold total to 13K units, indicating a $2.62K increase compared to the Previous Year-to-Date (PYTD) Car Sold, with a YOY Growth in Car Sold of 24.57%.
+4) Analysis of the Year-to-Date (YTD) weekly Sales Trend reveals the highest sales generated in the 36th week of the year, amounting to $14.9M.
+5) Examination of the Year-to-Date (YTD) Total Sales by Body Style highlights SUVs as the highest selling body style, while Hardtop body style cars contribute the least to sales.
+6) White emerges as the most preferred car color, with the highest number of cars sold.
+7) Sales distribution analysis based on dealer regions shows Austin as the region with the highest car sales, while Middletown records the least.
+8) Chevrolet company's cars emerge as the best-selling, generating the highest revenue.
 
+---
 
+## Thank you for your attention and interest in our Car Sales Dashboard Report.
 
+---
 
+## Data Analyst
 
+[**Deepak Sheokand**](https://www.linkedin.com/in/deepak-sheokand-0a0833272/)
