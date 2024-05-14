@@ -1,4 +1,4 @@
-# Car-Sales-Dashboard
+# Car-Sales-Analysis
 
 ## Business Objective:
 The objective of this project is to design and develop a dynamic and interactive Car Sales Dashboard to effectively track and analyze sales performance in our car dealership. The dashboard visualizes critical KPIs and provides insights to help us make informed decisions and identify growth opportunities.
